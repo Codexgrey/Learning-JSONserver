@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome!",
+      "body": "Hey there! Welcome to my unofficial blog.",
+      "author": "Codexgrey",
+      "id": 1
+    },
+    {
+      "title": "Cosmos",
+      "body": "The more i learn of the cosmos, the more intrigued i am. ",
+      "author": "Codexgrey",
+      "id": 2
+    },
+    {
+      "title": "Life",
+      "body": "Life is a reflection of our choices, so please make good choices.",
+      "author": "Codexgrey",
+      "id": 3
+    },
+    {
+      "title": "The Fall - Genesis 3",
+      "body": "Much of the narrative around Genesis Chapter 3 in the bible is skewed. What made to believe it not what i've come to understand concerning the topic.",
+      "author": "Codexgrey",
+      "id": 4
+    }
+  ]
+}
